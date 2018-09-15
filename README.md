@@ -5,7 +5,7 @@
 The competition has been organised by <a href= 'https://www.machinehack.com'>Machine Hack</a>.
 For the dataset <a href= 'https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/'>visit</a>.
 
-<b> The first hackathon where I secured 2nd rank among 872 competitors and featured in <a href= 'https://www.analyticsindiamag.com/machinehack-winners-how-3-self-taught-data-scientists-cracked-the-problem-of-real-estate-pricing-in-bengaluru/>Analytics India Mag</a></b>.
+<b> The first hackathon where I secured 2nd rank among 872 competitors and featured in <a href= 'https://www.analyticsindiamag.com/machinehack-winners-how-3-self-taught-data-scientists-cracked-the-problem-of-real-estate-pricing-in-bengaluru/'>Analytics India Mag</a></b>.
   
 The train and test data will consist of various features that describe that property in Bengaluru. This is an actual data set that is curated over months of primary & secondary research by our team. Each row contains fixed size object of features. There are 9 features and each feature can be accessed by its name.
 
